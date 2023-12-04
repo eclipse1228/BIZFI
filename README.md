@@ -1,7 +1,7 @@
 # BIZFI
 Webservice For Estimating average delivery Fee And Commercial Area Analysis. 
 
-## We're refactoring the code for this project.... (2024)
+## We're refactoring this project's code  (2024)
 
 # Introduction
 ![슬라이드1](https://github.com/eclipse1228/BIZFI/assets/107296751/00686bf6-2c77-404c-8058-1d9a0a807a67)
